@@ -123,6 +123,9 @@
 /admin/settings.php
 /login.php
 /superuser/
+/xmlrpc.php
+/wp-admin/xmlrpc.php
+/wp-content/xmlrpc.php
 /superuser/index.php
 /admin/panel/
 /admin/panel/index.php
