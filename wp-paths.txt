@@ -1,6 +1,7 @@
 /wp-admin/
 /wp-admin/index.php
 /wp-admin/admin.php
+/xmlrpc.php
 /wp-admin/xmlrpc.php
 /wp-content/xmlrpc.php
 /wp-admin/admin-ajax.php
